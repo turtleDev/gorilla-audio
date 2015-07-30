@@ -7,7 +7,7 @@
 Gorilla Audio is an attempt to make a free, straightforward,  
 cross-platform, high-level software audio mixer that supports   
 playback of both static and streaming sounds. It is intended for  
-video game development, but should easily support many other real-time 
+video game development, but should easily support many other real-time   
 audio software applications.
 
 
@@ -22,5 +22,10 @@ Non-MIT code in the repository is denoted by COPYING files.
 ##Documentation
 Docs can be found [here.][docs]
 
+##Notice
+
+This repo was exported from [this][source] google projects page.
+
 [docs]:http://www.finalformgames.com/gorilla/html/index.html
 [logo]:data/256.png
+[source]:http://code.google.com/p/gorilla-audio/
