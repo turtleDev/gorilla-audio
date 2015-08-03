@@ -26,6 +26,11 @@ Docs can be found [here.][docs]
 
 This repo was exported from [this][source] google projects page.
 
+##Disclaimer
+
+I'm not the maintainer of this project. All the code belong to their respective 
+owner(s). 
+
 [docs]:http://www.finalformgames.com/gorilla/html/index.html
 [logo]:data/256.png
 [source]:http://code.google.com/p/gorilla-audio/
